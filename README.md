@@ -10,4 +10,5 @@
     static native void deactivate();
 
 activate - запускает парсер, парсер невозможно отключить
+
 deactivate - очищает папку с ресурсами парсера
