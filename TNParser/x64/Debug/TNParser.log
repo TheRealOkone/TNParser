@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\O\source\repos\TNParser\TNParser\Source.cpp(540,20): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     Создается библиотека C:\Users\O\source\repos\TNParser\x64\Debug\TNParser.lib и объект C:\Users\O\source\repos\TNParser\x64\Debug\TNParser.exp
+  TNParser.vcxproj -> C:\Users\O\source\repos\TNParser\x64\Debug\TNParser.dll

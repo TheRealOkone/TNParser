@@ -1,0 +1,12 @@
+﻿  Source.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\O\source\repos\TNParser\TNParser\Source.cpp(30,22): warning C4101: hProc: неиспользованная локальная переменная
+C:\Users\O\source\repos\TNParser\TNParser\Source.cpp(231,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\O\source\repos\TNParser\TNParser\Source.cpp(262,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\O\source\repos\TNParser\TNParser\Source.cpp(307,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\O\source\repos\TNParser\TNParser\Source.cpp(312,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\O\source\repos\TNParser\TNParser\Source.cpp(317,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\O\source\repos\TNParser\TNParser\Source.cpp(662,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\O\source\repos\TNParser\TNParser\Source.cpp(714,20): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     Создается библиотека C:\Users\O\source\repos\TNParser\Debug\TNParser.lib и объект C:\Users\O\source\repos\TNParser\Debug\TNParser.exp
+  TNParser.vcxproj -> C:\Users\O\source\repos\TNParser\Debug\TNParser.dll
